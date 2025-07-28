@@ -1,0 +1,1 @@
+This is a sample confidential file to demonstrate AES encryption and decryption.
